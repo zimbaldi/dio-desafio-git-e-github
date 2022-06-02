@@ -1,2 +1,11 @@
 Link para download do Git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos úteis do Git:
+
+Ir até a pasta de projeto dentro do Git Bash, com o botão direito selecionar "Git Bash Here"
+Usar o comando git init 
+Acompanhar com o comando git status
+No caso de adicionar a pasta toda o comando é git add --all
+git commit -m "Digite a descrição da alteração aqui"
+git push endereço do repositorio
